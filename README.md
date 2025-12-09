@@ -1,1 +1,2 @@
-# Deimien
+## ¿Qué método preferirían usar en un proyecto a largo plazo? ##
+para tabajar a largo plazo con mas de un usisuario, llegamos a la conclusion que lo mejor seria usar el merge, ya que es mucho mejor para teabajo en equipo sin sobreescribir de mas y luego tener errores en el codigo

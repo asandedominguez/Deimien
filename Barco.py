@@ -1,3 +1,4 @@
 class Barco:
-    def __init__(self, nome):
-        self.nome = nome
+    def __init__(self, armamento, alcance):
+        self.armamento = armamento
+        self.alcance = alcance
